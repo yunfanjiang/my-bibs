@@ -1,0 +1,22 @@
+@article{reptile,
+  title={On First-Order Meta-Learning Algorithms},
+  author={Alex Nichol and Joshua Achiam and J. Schulman},
+  journal={ArXiv},
+  year={2018},
+  volume={abs/1803.02999}
+}
+
+@Inbook{learn2learn,
+author="Thrun, Sebastian
+and Pratt, Lorien",
+title="Learning to Learn: Introduction and Overview",
+bookTitle="Learning to Learn",
+year="1998",
+publisher="Springer US",
+address="Boston, MA",
+pages="3--17",
+abstract="Over the past three decades or so, research on machine learning and data mining has led to a wide variety of algorithms that learn general functions from experience. As machine learning is maturing, it has begun to make the successful transition from academic research to various practical applications. Generic techniques such as decision trees and artificial neural networks, for example, are now being used in various commercial and industrial applications (see e.g., [Langley, 1992; Widrow et al., 1994]).",
+isbn="978-1-4615-5529-2",
+doi="10.1007/978-1-4615-5529-2_1",
+url="https://doi.org/10.1007/978-1-4615-5529-2_1"
+}
