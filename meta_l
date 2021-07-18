@@ -20,3 +20,10 @@ isbn="978-1-4615-5529-2",
 doi="10.1007/978-1-4615-5529-2_1",
 url="https://doi.org/10.1007/978-1-4615-5529-2_1"
 }
+
+@inproceedings{maml,
+  title={Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks},
+  author={Chelsea Finn and P. Abbeel and Sergey Levine},
+  booktitle={ICML},
+  year={2017}
+}
